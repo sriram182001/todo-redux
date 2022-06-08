@@ -1,0 +1,25 @@
+ .todo{
+    background-color:midnightblue;
+    border-radius: 10px;
+}
+/* #list{
+    background-color: chartreuse;
+}  */ 
+.list-control{
+    padding-left: 400px;
+    padding-right: 400px;
+} 
+#del{
+    background-color:red;
+    height: 35px;
+    float: right;
+    border-radius: 10px;
+}
+#list{
+    
+    font-size: 30px;
+    
+}
+p{
+    color:aliceblue;
+}
